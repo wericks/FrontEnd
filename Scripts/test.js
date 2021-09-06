@@ -1,3 +1,4 @@
+//Utilizando options arguments com a função locale para internacionalizar as datas e numeros
 const count = 21314.98;
 const date = new Date("2021-09-05");
 
